@@ -11,7 +11,7 @@
       "distribution": "internal",
       "android": {
         "buildType": "apk",
-        "applicationArchivePath": "android/app/build/outputs/**/*.{apk}"
+        "applicationArchivePath": "android/app/build/outputs/**/*.apk"
       }
     },
     "production": {}
