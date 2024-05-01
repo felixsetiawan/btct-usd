@@ -1,5 +1,5 @@
 # Expo Link:
-https://expo.dev/accounts/felixsetiawan/projects/pintunya/builds/111f36be-c3da-411c-9bb1-057bb27da574
+https://expo.dev/accounts/felixsetiawan/projects/pintunya/builds/d7812b68-3949-498c-bc79-70d00d161b9b
 
 # API:
 1. Binance API: https://github.com/binance/binance-spot-api-docs
