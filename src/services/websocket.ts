@@ -30,11 +30,9 @@ export class WS {
         setTimeout(() => {
           this.sendMessage(message);
         }, 100);
-        console.log("belum ready");
         return;
       }
       this.ws.send(message);
-      console.log("ready and sent");
     } catch (e) {
       console.log(e);
     }
