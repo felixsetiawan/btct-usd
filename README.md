@@ -1,3 +1,12 @@
+# Expo Link:
+https://expo.dev/accounts/felixsetiawan/projects/pintunya/builds/111f36be-c3da-411c-9bb1-057bb27da574
+
+# API:
+1. Binance API: https://github.com/binance/binance-spot-api-docs
+
+## Notes:
+Based on a few testing I have done, the API is blocked by Biznet, so please use any Public DNS, if your ISP is Biznet 🙏
+
 # Dependencies Used:
 1. [d3-scale](https://www.npmjs.com/package/d3-scale) - to scale the chart Y-value accordingly to the max and min value of candlestick-chart-list
 2. [dayjs](https://www.npmjs.com/package/dayjs) - to format and manipulate date type
